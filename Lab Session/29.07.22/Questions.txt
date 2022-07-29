@@ -1,0 +1,1 @@
+ 1) Average of 5 students attendance in 13 days using method.
