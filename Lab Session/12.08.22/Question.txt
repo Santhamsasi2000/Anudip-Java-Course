@@ -1,0 +1,1 @@
+1) Write the program using inheritance ,print increasing ram price and storage price.
