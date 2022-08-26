@@ -1,0 +1,1 @@
+1) Using interfaces ,print the Blood donors in all districts.
